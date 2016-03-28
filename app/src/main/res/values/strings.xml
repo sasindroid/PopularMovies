@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="menu_most_popular">Most popular</string>
+    <string name="menu_highest_rated">Highest rated</string>
+    <string name="menu_favorite">Favorites</string>
+    <string name="menu_sort">Sort</string>
+    <string name="cdesc_movie_poster">Movie poster</string>
+    <string name="rating">%1$s/10</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tag_fragment_movie_list">MOVIE_LIST_FRAGMENT</string>
+    <string name="tag_fragment_movie_detail">MOVIE_DETAIL_FRAGMENT</string>
+    <string name="togglebutton_text">Favorite</string>
+    <string name="togglebutton_off_text">Mark Favorite</string>
+    <string name="togglebutton_on_text">Favorite</string>
+    <string name="trailer_header">Trailers</string>
+    <string name="no_connectivity"><![CDATA[Please switch on your Internet connection & enjoy the full features of the app!]]></string>
+    <string name="review_header">Reviews</string>
+    <string name="share_text">Share text to..</string>
+    <string name="menu_share_text">Share</string>
+    <string name="movie_poster_desc">Movie Poster</string>
+    <string name="movie_trailer">Movie Trailer</string>
+    <string name="cannot_share">No compatible application found to share.</string>
+    <string name="no_trailer_found">Sorry, No trailer found.</string>
+</resources>

@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.android.popularmovies.MovieListActivity">
+
+    <item
+        android:id="@+id/action_sort"
+        android:orderInCategory="100"
+        android:title="@string/menu_sort"
+        app:showAsAction="ifRoom">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/action_most_popular"
+                    android:orderInCategory="100"
+                    android:title="@string/menu_most_popular"
+                    app:showAsAction="never"/>
+
+                <item
+                    android:id="@+id/action_highest_rated"
+                    android:orderInCategory="100"
+                    android:title="@string/menu_highest_rated"
+                    app:showAsAction="never"/>
+
+                <item
+                    android:id="@+id/action_favorite"
+                    android:orderInCategory="100"
+                    android:title="@string/menu_favorite"
+                    app:showAsAction="never"/>
+
+            </group>
+        </menu>
+    </item>
+
+    <!-- Used for my internal testing. -->
+    <!--<item-->
+    <!--android:id="@+id/action_delete"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="Flush"-->
+    <!--app:showAsAction="ifRoom"/>-->
+
+</menu>
