@@ -18,4 +18,4 @@ Change the API_KEY in Utility.java replacing "keytothemoviedb" with your own api
 
 ###License###
 
-Ledbetter is distributed under the MIT license.
+PopularMovies is distributed under the MIT license.
