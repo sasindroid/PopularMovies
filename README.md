@@ -2,7 +2,7 @@
 PopularMovies is an Udacity Project exercise. This Project connects to a live movies db and displays Popular movies based on: 
 - Most Popular 
 - Highest Rated 
-- Favourites
+- Favourites (personal)
 
 ###Installation###
 
