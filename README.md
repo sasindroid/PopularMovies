@@ -12,7 +12,7 @@ Clone the GitHub repository using the below command from command prompt.
 
 ###Usage###
 
-Change the API_KEY in Utility.java with your own api key.
+Change the API_KEY in Utility.java replacing "keytothemoviedb" with your own api key.
 
 `public static final String API_KEY = "keytothemoviedb";`
 
